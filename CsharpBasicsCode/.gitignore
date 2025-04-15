@@ -27,3 +27,9 @@ bld/
 
 # VS Code directory
 .vscode/
+
+
+CopilotIndices/
+.vs/
+obj/
+bin/
