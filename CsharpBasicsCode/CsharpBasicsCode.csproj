@@ -8,10 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="if-else\" />
     <Folder Include="functions\" />
-    <Folder Include="strings\" />
-    <Folder Include="switch-case\" />
   </ItemGroup>
 
 </Project>
