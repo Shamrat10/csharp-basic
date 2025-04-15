@@ -1,0 +1,14 @@
+C:\shamrat\csharp-basic\CsharpBasicsCode\bin\Debug\net7.0\CsharpBasicsCode.exe
+C:\shamrat\csharp-basic\CsharpBasicsCode\bin\Debug\net7.0\CsharpBasicsCode.deps.json
+C:\shamrat\csharp-basic\CsharpBasicsCode\bin\Debug\net7.0\CsharpBasicsCode.runtimeconfig.json
+C:\shamrat\csharp-basic\CsharpBasicsCode\bin\Debug\net7.0\CsharpBasicsCode.dll
+C:\shamrat\csharp-basic\CsharpBasicsCode\bin\Debug\net7.0\CsharpBasicsCode.pdb
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\CsharpBasicsCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\CsharpBasicsCode.AssemblyInfoInputs.cache
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\CsharpBasicsCode.AssemblyInfo.cs
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\CsharpBasicsCode.csproj.CoreCompileInputs.cache
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\CsharpBasicsCode.dll
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\refint\CsharpBasicsCode.dll
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\CsharpBasicsCode.pdb
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\CsharpBasicsCode.genruntimeconfig.cache
+C:\shamrat\csharp-basic\CsharpBasicsCode\obj\Debug\net7.0\ref\CsharpBasicsCode.dll
